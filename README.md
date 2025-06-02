@@ -1,2 +1,10 @@
 # DrAIT-chatbot
-a chatbot
+AI chatbot
+
+
+people contributed
+
+AJJAIAH RM [1DA21IS066]
+VAIBHAV KHELGI [1DA21IS057]
+YASHAS M ACHAR [1DA21IS057]
+AKSHAY N [1DA21IS006]
